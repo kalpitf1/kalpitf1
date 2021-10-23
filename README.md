@@ -1,18 +1,12 @@
 ### Hi there 👋
+My name is Kalpit and I am here to work on cool personal and open-source projects.
 
-[![Kalpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpitf1)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on [type-app](https://github.com/kalpitf1/type-app)
+- 🌱 I’m currently learning full-stack web development with the MERN stack
 
-<!--
-**kalpitf1/kalpitf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpitf1&count_private=true&custom_title=Kalpit's Github Stats&disable_animations=true&theme=react"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpitf1&layout=compact&theme=react"/>
+</a>
