@@ -1,12 +1,8 @@
 ### Hi there 👋
-My name is Kalpit and I am here to work on cool personal and open-source projects.
+My name is Kalpit and I am a fullstack developer with work experience in JS, Golang, Vue, Dart.
 
-- 🔭 I’m currently working on [type-app](https://github.com/kalpitf1/type-app)
-- 🌱 I’m currently learning full-stack web development with the MERN stack
+OPEN TO WORK - here is my [LinkedIn](http://linkedin.com/in/kalpit-f/) :)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpitf1&count_private=true&custom_title=Kalpit's Github Stats&disable_animations=true&theme=react"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpitf1&layout=compact&theme=react"/>
-</a>
+- 🔭 I’m currently working on a website showcasing breakfast bowls I made that is aptly named [recipes](https://github.com/kalpitf1/recipes) and here is its [live deployment](https://breakfastbowls.netlify.app)
+- 💻 Past project deployments links: [personal website](http://kalpitf.netlify.app/) and [typing test webapp](https://typeapp.netlify.app)
+- 🌱 I’m currently learning React and Golang
